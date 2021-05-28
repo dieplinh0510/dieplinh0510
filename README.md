@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<h2> - My name is <b>Diệp Thị Linh</b>  <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="40" height="40"</img></h2>
+<h2> - My name is <b>Diệp Thị Linh</b>  <img src="https://media4.giphy.com/media/OT67vTN8ckQmev2Wja/giphy.gif?cid=ecf05e47d1h7t7qsh8pauyn26ak1d6cnl7f7w8kaq1lhbbq6&rid=giphy.gif&ct=s" width="50" height="50"</img></h2>
 
 
 <p>- 🌱 I’m currently learning Android and Java Web <img src="https://media4.giphy.com/media/S8IL16sDmUQfPgJNAH/giphy.gif?cid=ecf05e47tjyp9il0uo1ba8vnkzdhnc5grve56v00e6sq3231&rid=giphy.gif&ct=s" width="50" height="50"></img></p>
