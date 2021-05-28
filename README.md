@@ -4,7 +4,7 @@
 
 <p>- 🌱 I’m currently learning Android and Java Web <img src="https://media4.giphy.com/media/S8IL16sDmUQfPgJNAH/giphy.gif?cid=ecf05e47tjyp9il0uo1ba8vnkzdhnc5grve56v00e6sq3231&rid=giphy.gif&ct=s" width="50" height="50"></img></p>
 <p>- 🔭 I’m currently working on HIT - HaUI <img src="https://media0.giphy.com/media/YkzhH8unAg0EpyZpw3/giphy.gif?cid=ecf05e47148ka8toi5olzowyw4n16h4nnxozb2mcntg4zfjv&rid=giphy.gif&ct=s" width="50" height="50"> </img></p>
-<p>- 📫 You can contact me at: 0823644212 || dieplinh1005.dh@gmail.com || <a href="https://www.facebook.com/linh.tuyngoc.7">My facebook</a><img src="https://www.facebook.com/sweethouse.SL/" width="50" height="50"> </img></p>
+<p>- 📫 You can contact me at: 0823644212 || dieplinh1005.dh@gmail.com || <a href="https://www.facebook.com/linh.tuyngoc.7">My facebook</a><img src="https://media0.giphy.com/media/pyOW7H0itBpAOjH9Cz/giphy.gif?cid=ecf05e47b4tdb1v7z6yjdbm615zxqvapfmwgusd2jdw3np9m&rid=giphy.gif&ct=s" width="50" height="50"> </img></p>
 
 <!--
 **huannd0101/huannd0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
