@@ -4,7 +4,7 @@
 
 <p>- 🌱 I’m currently learning Android and Java Web <img src="https://media4.giphy.com/media/S8IL16sDmUQfPgJNAH/giphy.gif?cid=ecf05e47tjyp9il0uo1ba8vnkzdhnc5grve56v00e6sq3231&rid=giphy.gif&ct=s" width="50" height="50"></img></p>
 <p>- 🔭 I’m currently working on HIT - HaUI <img src="https://media0.giphy.com/media/YkzhH8unAg0EpyZpw3/giphy.gif?cid=ecf05e47148ka8toi5olzowyw4n16h4nnxozb2mcntg4zfjv&rid=giphy.gif&ct=s" width="50" height="50"> </img></p>
-<p>- 📫 You can contact me at: 0375417808 || huannd0101@gmail.com || <a href="https://bit.ly/3oYKAgD">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
+<p>- 📫 You can contact me at: 0823644212 || dieplinh1005.dh@gmail.com || <a href="https://www.facebook.com/linh.tuyngoc.7">My facebook</a><img src="https://media2.giphy.com/media/jCKC1WsYrlZ3E3StlV/giphy.gif" width="50" height="50"> </img></p>
 
 <!--
 **huannd0101/huannd0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
